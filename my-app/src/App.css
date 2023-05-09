@@ -1,0 +1,21 @@
+.newm{
+    width: 18rem;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+li{
+    background-color: black;
+    color: rgb(248, 245, 245); 
+    list-style: none;
+    margin: 0;
+    padding: 10px;
+    width: 100%;
+
+}
+ul{
+    display: flex;
+   
+}
